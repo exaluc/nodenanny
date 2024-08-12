@@ -1,0 +1,13 @@
+{
+    "name": "nodenanny",
+    "version": "1.0.2",
+    "description": "NodeNanny: Your friendly Node.js configuration helper.",
+    "main": "nodenanny.js",
+    "bin": {
+      "nodenanny": "./nodenanny.js"
+    },
+    "dependencies": {},
+    "author": "Lucian BLETAN",
+    "license": "MIT"
+  }
+  
